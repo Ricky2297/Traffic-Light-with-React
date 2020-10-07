@@ -1,5 +1,5 @@
 import React from "react";
-import { Traficclight } from "../trafficlight";
+import { Trafficlight } from "../trafficlight";
 
 //include images into your bundle
 
@@ -7,7 +7,7 @@ import { Traficclight } from "../trafficlight";
 export function Home() {
 	return (
 		<div className="text-center mt-5">
-			<Traficclight />
+			<Trafficlight />
 		</div>
 	);
 }
