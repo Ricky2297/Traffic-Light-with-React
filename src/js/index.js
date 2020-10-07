@@ -24,4 +24,4 @@ function changeLight() {
 		document.querySelector("#app")
 	);
 }
-setInterval(changeLight, 3000);
+setInterval(changeLight, 1000);
